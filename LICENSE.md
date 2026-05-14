@@ -1,4 +1,4 @@
-# 
+# Enhance Audacity for macOS with smart Audacity for macOS Automation | noise-reduction + green-screen-removal, the #1 automation. Includes noise-reduction and green-screen-removal
 
 
 
